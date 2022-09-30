@@ -1,0 +1,151 @@
+.navContainer{
+  background-color:darkgreen;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  
+  
+}
+
+.mailcontainer{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 10px;
+  
+  
+}
+
+.mailid{
+  color: aliceblue;
+}
+
+.socialmediacontainer{
+  display: flex;
+  flex-direction: row;
+  margin: 30px;
+  margin-right: 20px;
+}
+
+.buttoncontainer{
+  display: flex;
+  flex-direction: row;
+  margin: 30px;
+  margin-right: 20px;
+
+}
+.socialIcon{
+
+  margin-right: 15px;
+}
+
+.button{
+  text-align: center;
+  background-color: rgb(132, 198, 33);
+  color: white;
+  border:none;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.imageContainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: whitesmoke;
+  align-items: center;
+}
+.details{
+  color: black;
+  font-family: "Roboto";
+  font-weight: bold;
+}
+.details2{
+  color: black;
+  font-family: "Roboto";
+  font-weight: bold;
+  border: none;
+  background-color: transparent;
+  padding: 0%;
+}
+
+.outletdropdown{
+  color: black;
+  font-family: "Roboto";
+  font-weight: bold;
+  border: none;
+  
+}
+
+.aboutResturant{
+  display: flex;
+  flex-direction: row;
+  margin: 50px;
+  justify-content: space-between;
+  align-self: center;
+}
+.resturantOperating{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+}
+
+
+
+.detailsofResturant{
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  justify-content: center;
+}
+
+.heading{
+  color: black;
+  font-weight: bold;
+  font-size: 50px;
+}
+.technology{
+  color:rgb(132, 198, 33) ;
+}
+
+.description{
+  color: black;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.description2{
+  color:black;
+  font-size: 25px;
+  font-family: 'Roboto';
+  
+
+}
+
+.button1{
+  background-color: darkgreen;
+  color: white;
+  text-align: center;
+  padding-right:30px ;
+  padding-left: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 16px;
+  border: none;
+  margin-right: 15px;
+  font-weight: 400;
+}
+
+.button2{
+  background-color: rgb(132, 198, 33);
+  color: white;
+  text-align: center;
+  padding-right:30px ;
+  padding-left: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 16px;
+  border: none;
+  margin-right: 15px;
+  font-weight: 400;
+}
